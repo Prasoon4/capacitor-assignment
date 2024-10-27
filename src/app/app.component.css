@@ -1,0 +1,23 @@
+.heading {
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 48px 16px 16px 16px;
+  }
+  .center-text {
+    text-align: center;
+    margin: 0px 20px;
+  }
+  .date-picker {
+      padding: 8px 16px;
+      margin: 20px;
+      border: 1px solid gray;
+      border-radius: 10px;
+  }
+  .date-picker:active {
+      border: 1px solid black;
+      background-color: lightgray;
+  }
+  div {
+      font-size: 16px;
+    }
